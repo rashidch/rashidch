@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm AI Researcher.
+I’m currently working on the implementation of Smart AI Elevator Interaction Interface to control the Elevator using Hand gestures!
 
 <!--
 **rashidch/rashidch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
