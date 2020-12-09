@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to build Deep Learning and Machine Learning systems  
 - 👯 I’m looking to collaborate on AI projects in area of computer vision!
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about computer visio
+- 💬 Ask me about
 - 📫 How to reach me: rashidumer@outlook.com
 
 <!--
