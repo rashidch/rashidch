@@ -1,5 +1,5 @@
 ### Hi there, I am Rashid Ali 👋
-- 🔭 I am AI researcher!
+- I am AI researcher!
 
 
 
